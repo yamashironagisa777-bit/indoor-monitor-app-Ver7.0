@@ -12,5 +12,5 @@ window.MONITOR_CONFIG = {
   audioRefreshMs: 60000,
   // Supabase Edge Function のURLとVAPID公開鍵をセットアップ手順に従って設定
   pushFunctionUrl: "https://xrmyhdtnlfhllfttujfg.supabase.co/functions/v1/indoor-push",
-  vapidPublicKey: "PASTE_VAPID_PUBLIC_KEY_HERE"
+  vapidPublicKey: "BFi-9fYcMSwn9gRP16UhIRB4lFmxD84zxQn2SjXzjE9bf2mROMO0BAkJQTOdU-dpcF9BLcMuBfH-NWnt006Ws-g"
 };
